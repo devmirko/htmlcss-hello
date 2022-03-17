@@ -3,6 +3,26 @@
     margin: auto;
 }
 
-header{
+.titolo{
     text-align: center;
+
+    
 }
+.testo-titolo{
+    font-size: 40px;
+    
+}
+
+.paragrafo{
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+
+
